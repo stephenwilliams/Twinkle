@@ -19,7 +19,7 @@
 
   <groupId>com.alta189</groupId>
   <artifactId>twinkle</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Twinkle</name>
@@ -48,7 +48,7 @@
   	<dependency>
   		<groupId>com.alta189</groupId>
   		<artifactId>swingcore</artifactId>
-  		<version>1.0.0</version>
+  		<version>1.0.1-SNAPSHOT</version>
   		<type>jar</type>
   		<scope>compile</scope>
   	</dependency>
